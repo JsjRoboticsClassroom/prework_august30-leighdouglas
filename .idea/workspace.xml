@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="829d27a4-9222-4a87-8e27-6fc59458e2c2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/nyc/c4q/Main.java" afterPath="$PROJECT_DIR$/src/nyc/c4q/Main.java" />
-    </list>
+    <list default="true" id="829d27a4-9222-4a87-8e27-6fc59458e2c2" name="Default" comment="" />
     <ignored path="HangmanPrework.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
